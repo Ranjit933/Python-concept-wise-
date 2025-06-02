@@ -1,0 +1,11 @@
+0. https://medium.com/@codekalimi/list-of-machine-learning-models-61b51ad492f1
+
+ML Roadmap : https://charanhu.medium.com/machine-learning-roadmap-2024-a-step-by-step-guide-to-mastery-42f7f41e679f
+
+1. https://neptune.ai/blog/ml-engineer-vs-data-scientist
+2. https://365datascience.com/career-advice/career-guides/data-scientist-vs-machine-learning-engineer/
+3. https://www.hibernian-recruitment.com/wp-content/uploads/2023/05/data-captains-radar-chart-1024x558.jpg
+4. https://miro.medium.com/v2/resize:fit:1400/0*KFZbizG-xW4_yPIs.png
+5. https://miro.medium.com/v2/resize:fit:1400/1*51rgXMpM7q0S_gHBKX-FvA.png
+6. https://mantelgroup.com.au/wp-content/uploads/2024/03/typical-Machine-Learning-Lifecycle.png
+7. https://miro.medium.com/v2/resize:fit:1400/1*7I9U1qiZ7DxoPTZZsKSVJg.png
