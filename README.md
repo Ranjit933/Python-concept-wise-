@@ -8,3 +8,6 @@ https://python-graph-gallery.com/
 
 # PCA Visualization
 https://www.billconnelly.net/wp-content/uploads/2021/05/PCA1-smaller-smaller.gif
+
+#ML
+https://www.geeksforgeeks.org/machine-learning/cross-validation-machine-learning/
